@@ -10,8 +10,8 @@ This directory houses all the core technical documentation and code related to t
 * Troubleshooting guides: Instructions on how the functions were designed are explained in the API_Documentation.md file, including how to handle potential errors when using the API.
 
 
-## /Postman_Collection
-Includes Postman and Jupyter Notebook for easily testing API endpoints and demonstrating API interactions and data retrieval.
+## /Jupyter Notebook
+Includes Jupyter Notebook for easily testing API endpoints and demonstrating API interactions and data retrieval.
 The troubleshooting guides are explained into the Jupyter Notebook.
 
 For a better understanding of all the functions, run the Jupyter notebook located at Jupyter_Notebook/DATA_EXTRACT_TEST.ipynb, where you can test each function and explore various use cases.
